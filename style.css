@@ -333,3 +333,55 @@ form .name-details .field:last-child{
     height: 25px;
     width: 25px;
 }
+
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+  }
+  
+  .container {
+    width: 100%;
+    max-width: 500px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  #chat-box {
+    height: 300px;
+    overflow-y: auto;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  #chat-box div {
+    margin-bottom: 8px;
+  }
+  
+  form {
+    display: flex;
+    gap: 8px;
+  }
+  
+  input[type="text"] {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    padding: 10px 15px;
+    background: #2c89e8;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
