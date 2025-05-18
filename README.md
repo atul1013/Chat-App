@@ -16,7 +16,7 @@ The application allows users to create accounts, log in, and chat with others in
 # 🛠️ Technologies Used
 
 - **Frontend**: HTML5, CSS3, JavaScript
-- **Backend**: PHP (Procedural)
+- **Backend**: PHP
 - **Database**: MySQL
 - **Server**: Apache (via XAMPP)
 
@@ -53,12 +53,12 @@ Import database.sql to create the messages table
 
 📌 Future Enhancements
 
-WebSocket integration for real-time chat
+1. WebSocket integration for real-time chat
 
-User authentication system
+2. User authentication system
 
-Typing indicators and read receipts
+3. Typing indicators and read receipts
 
-Emoji and media support
+4. Emoji and media support
 
 
